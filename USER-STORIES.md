@@ -34,5 +34,5 @@ These are features that are currently implemented in Behind the Counter, and whi
 11. As an admin, I want to update the secret entry code for the speakeasy so that I can maintain exclusivity.
 12. As an admin, I want to review user feedback on drinks and products so that I can improve offerings.
 
-13. As a returning customer, I want personalized product recommendations based on my past purchases so that I can discover new items.
+13. As a returning customer, I want personalized product recommendations based on my past purchases so that I can discover new items.app
 14. As a mobile user, I want a seamless mobile experience so that I can browse and book easily on my phone.
