@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Behind The Counter</title>
+    <link>https://hajoon.github.io/hugo-bootstrap-theme/series/</link>
+    <description>Recent content in Series on Behind The Counter</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Hajoon Park</copyright>
+    <atom:link href="https://hajoon.github.io/hugo-bootstrap-theme/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
