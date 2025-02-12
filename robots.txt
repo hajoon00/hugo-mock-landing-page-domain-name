@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://hajoon.github.io/hugo-bootstrap-theme/sitemap.xml
+Disallow: /
